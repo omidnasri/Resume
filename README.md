@@ -3,6 +3,7 @@ https://github.com/omidnasri/Resume
 
 ### Designer:
 mahboobbornak@yahoo.com
+
 omid.nasri@outlook.com
 
 ### Blog
