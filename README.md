@@ -10,5 +10,6 @@ omid.nasri@outlook.com
 http://www.omidnasri.com/
 
 ### History
+- May 05, 2016 - Update Resume.
 - Apr 13, 2016 - Update Resume.
 - Mar 20, 2016 First Commit.
